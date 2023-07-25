@@ -1,6 +1,6 @@
 # Dashboard-PHP-v0.1
 
-Dashboard responsiva com php.
+Dashboard responsiva com php. Ainda em desenvolvimento.
 
 ## 🚀 Sobre o projeto 
 
